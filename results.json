@@ -1,0 +1,31 @@
+{
+  "metrics": {
+    "ssim": 0.890644793945587,
+    "rmse": 0.030315381761460453,
+    "correlation": 0.9156307148865866,
+    "residual_mean": -0.0030603068140315558,
+    "residual_std": 0.03016051878776426,
+    "correlation_signal": 0.9238614278791536
+  },
+  "zero_point": 28.260166525369428,
+  "calibration_stars": 164,
+  "nebula_peak_adu": 96.59093014935081,
+  "quality": {
+    "Background [ADU]": {
+      "real": 2380.0,
+      "simulated": 2382.2726969875175
+    },
+    "Noise [ADU]": {
+      "real": 31.1346,
+      "simulated": 32.87820826019584
+    },
+    "FWHM [arcsec]": {
+      "real": 1.6485993393438645,
+      "simulated": 1.588630073857557
+    },
+    "Detected stars": {
+      "real": 2005.0,
+      "simulated": 2023.0
+    }
+  }
+}
